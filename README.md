@@ -13,5 +13,5 @@ Stell dir mich als Hauptcharakter vor… der seinen Code (manchmal) tatsächlich
 These projects are my experiments,,, some are fillers, others are main story arcs.
 Diese Projekte sind meine Experimente,,, manche sind Filler-Episoden, andere die Hauptstory-Arcs.
 
-And if you find a bug, it’s not a bug — it’s an unexpected plot twist.
-Und wenn du einen Bug findest, ist das kein Bug – es ist ein unerwarteter Plot-Twist.
+And if you find a bug, it’s not a bug :) it’s an unexpected plot twist.
+Und wenn du einen Bug findest, ist das kein Bug :) es ist ein unerwarteter Plot-Twist.
